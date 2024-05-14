@@ -1,5 +1,7 @@
-## Develop BY:DHINESH.P
-## Reg No:212222043001
+## Develop BY:DINESH.M
+## Reg No:212222043002
+
+
 ## EXPERIMENT-06-
 ## CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
@@ -10,17 +12,14 @@
 Dragino LPS8 Indoor LoRaWAN gateway
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/36288975/6ad9d336-ac3f-43b2-9801-1a647c936b37)
 
- 
-The LPS8 is an open-source LoRaWAN Gateway. It lets you bridge LoRa wireless network to an IP network via WiFi, Ethernet. The LoRa wireless allows users to send data and reach extremely long ranges at low data rates. The LPS8 uses a Semtech packet forwarder and is fully compatible with the LoRaWAN protocol.
+ The LPS8 is an open-source LoRaWAN Gateway. It lets you bridge LoRa wireless network to an IP network via WiFi, Ethernet. The LoRa wireless allows users to send data and reach extremely long ranges at low data rates. The LPS8 uses a Semtech packet forwarder and is fully compatible with the LoRaWAN protocol.
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/36288975/74ae1f27-5105-4998-af15-b9de7e26ff3b)
 
- 
-It includes an SX1308 LoRa concentrator, which provides 10 programmable parallel demodulation paths. LPS8 has pre-configured standard LoRaWAN frequency bands to use for different countries. Users can also customize the frequency bands to use in their own LoRa network.
+ It includes an SX1308 LoRa concentrator, which provides 10 programmable parallel demodulation paths. LPS8 has pre-configured standard LoRaWAN frequency bands to use for different countries. Users can also customize the frequency bands to use in their own LoRa network.
 The gateway has an antenna to receive the LoRa Packets in 8-channels. On the front side, it has a USB Type C port for Input Power of DC 5V,2A. Apart from the power, it also has an Ethernet port, USB Host Port & a Toggle button to reset the gateway.
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/36288975/19c6189c-ebfa-423b-83bd-113cd24b76f4)
 
- 
-At bottom of the gateway, it has the LoRa Pico Station information Like Model-LPS8, Frequency Band, Serial Number, and the WiFi mac address.
+ At bottom of the gateway, it has the LoRa Pico Station information Like Model-LPS8, Frequency Band, Serial Number, and the WiFi mac address.
  
  LED Indicators
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/36288975/e0042eb3-e451-4d55-aa7c-664c5f8c57c3)
@@ -83,16 +82,12 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/36288975/2b71b396-8d51-4fd2-aec0-50db96a01f30)
 17.Click on save & apply. So finally the setting up of LPS8 Dragino LoRaWAN Gateway completes.
 
-
-
 ## OUTPUT 
 ![iot pic3](https://github.com/dhinesh00406/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/147149471/36304ef6-2a25-43b0-8744-c32da66532df)
 
 ![iot pic4](https://github.com/dhinesh00406/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/147149471/7656c8a2-ef9c-404e-8a54-a22dea5868ae)
 
 ![iot pic5](https://github.com/dhinesh00406/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/147149471/e5cbf846-5b7b-4f9b-8ec2-ab55c120e66e)
-
-
 
 ## Results: 
 The Dragino LPS8 Indoor LoRaWAN gateway for The Things Network has been confiqured .
